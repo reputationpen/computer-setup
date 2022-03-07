@@ -1,12 +1,15 @@
-INSTALL CHOCOLATEY
+# Chocolatey
+
+### Install :
 
 Run Get-ExecutionPolicy. If it returns Restricted, then run Set-ExecutionPolicy AllSigned or Set-ExecutionPolicy Bypass -Scope Process
 
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 
 
-CHOCOLATELY SCRIPT (paste into terminal)
+### Script (paste into terminal) :
 
+`
 choco install 7zip -y
 choco install discord -y
 choco install firefox -y
@@ -29,11 +32,12 @@ choco install icue -y
 choco install cpu-z -y
 choco install minecraft-launcher -y
 choco install obs-studio -y
+`
 
 
-MANUAL DOWNLOADS/SETUPS
+# Manual Downloads / Setup
 
-Firefox Style Setup:
+### Firefox Style Setup :
 
 Download chrome.zip
 Download tst config
@@ -44,14 +48,14 @@ Unzip chrome.zip into the profile folder
 Restart firefox
 Go to settings for tst and import the config file
 
-Airmessage Setup:
+### Airmessage Setup :
 
 Download airmessage.ico		
 Open cmd and run:
-
+`
 npm install -g nativefier
 nativefier "https://web.airmessage.org" "C:\Program Files\"
-
+`
 Open C:\Program Files\[Airmessage Install]
 Create a shortcut for the exe
 Place airmessage.ico in the install directory
@@ -59,7 +63,7 @@ Change the shortcut icon to airmessage.ico and rename it to Airmessage
 Move the shortcut to C:\ProgramData\Microsoft\Windows\Start Menu\Programs
 
 
-Other Program Downloads:
+### Other Program Downloads :
 
 adobe suite 	https://1drv.ms/u/s!AtZJZY-xh88UkS606M0fKUsPuC4g?e=rWuLMT
 solidworks	  https://solidworks.com/SEK
