@@ -18,6 +18,8 @@ choco install 7zip -y && choco install discord -y && choco install firefox -y &&
 
 ### Firefox Style Setup :
 
+Login to Firefox  
+Login to Bitwarden  
 Download chrome.zip  
 Download tst config  
 Open firefox and go to about:config  
