@@ -20,6 +20,8 @@ choco install 7zip -y && choco install discord -y && choco install firefox -y &&
 
 Login to Firefox  
 Login to Bitwarden  
+Change settings for custom scrollbar extension  
+Set Firefox to default browser  
 Download chrome.zip  
 Download tst config  
 Open firefox and go to about:config  
