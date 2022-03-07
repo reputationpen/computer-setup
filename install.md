@@ -35,8 +35,8 @@ MANUAL DOWNLOADS/SETUPS
 
 Firefox Style Setup:
 
-Download chrome.zip	https://drive.google.com/file/d/1zYOF2MXVP2JoWTpMDPZf5p5p8zqc54TH/view?usp=sharing
-Download tst config	https://drive.google.com/file/d/1IdIFX5TFIxhUcNq06UyS0xCvFsvOkniT/view?usp=sharing
+Download chrome.zip
+Download tst config
 Open firefox and go to about:config
 Set toolkit.legacyUserProfileCustomizations.stylesheets to true
 Go to about:support and click open profile folder
@@ -52,11 +52,17 @@ Open cmd and run:
 npm install -g nativefier
 nativefier "https://web.airmessage.org" "C:\Program Files\"
 
-Open 
+Open C:\Program Files\[Airmessage Install]
+Create a shortcut for the exe
+Place airmessage.ico in the install directory
+Change the shortcut icon to airmessage.ico and rename it to Airmessage
+Move the shortcut to C:\ProgramData\Microsoft\Windows\Start Menu\Programs
 
 
 Other Program Downloads:
 
-adobe suite	https://1drv.ms/u/s!AtZJZY-xh88UkS606M0fKUsPuC4g?e=rWuLMT
-solidworks	https://solidworks.com/SEK
-grabcad		https://workbench.grabcad.com/workbench/download
+adobe suite 	https://1drv.ms/u/s!AtZJZY-xh88UkS606M0fKUsPuC4g?e=rWuLMT
+solidworks	  https://solidworks.com/SEK
+grabcad	    	https://workbench.grabcad.com/workbench/download
+
+Download any games you want from steam, and you're done
