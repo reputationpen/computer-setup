@@ -10,7 +10,7 @@ Then run `Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServiceP
 ### Script (paste into terminal) :
 
 `
-choco install 7zip -y && choco install discord -y && choco install firefox -y && choco install teamviewer -y && choco install synergy -y && choco install inkscape -y && choco install steam-client -y && choco install bitwarden -y && choco install geforce-experience -y && choco install vlc -y && choco install zoom -y && choco install vscode -y && choco install slack -y && choco install chocolateygui -y -y && choco install everything -y && choco install figma -y && choco install icue -y && choco install cpu-z -y && choco install minecraft-launcher -y && choco install obs-studio.install -y
+choco install 7zip -y && choco install discord -y && choco install firefox -y && choco install teamviewer -y && choco install synergy -y && choco install inkscape -y && choco install steam-client -y && choco install bitwarden -y && choco install geforce-experience -y && choco install vlc -y && choco install zoom -y && choco install vscode -y && choco install slack -y && choco install chocolateygui -y -y && choco install everything -y && choco install figma -y && choco install icue -y && choco install cpu-z -y && choco install minecraft-launcher -y && choco install obs-studio.install -y $$ choco install nodejs-lts
 `
 
 
