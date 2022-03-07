@@ -25,7 +25,7 @@ Set Firefox to default browser
 Download chrome.zip  
 Download tst config  
 Open firefox and go to about:config  
-Set toolkit.legacyUserProfileCustomizations.stylesheets to true  
+Set `toolkit.legacyUserProfileCustomizations.stylesheets` to true  
 Go to about:support and click open profile folder  
 Unzip chrome.zip into the profile folder  
 Restart firefox  
