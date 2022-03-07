@@ -42,7 +42,7 @@ Open `C:\Users\[User]\` and move the Airmessage install directory to `C:\Program
 Create a shortcut for the exe  
 Place airmessage.ico in the install directory  
 Change the shortcut icon to airmessage.ico and rename it to Airmessage  
-Move the shortcut to C:\ProgramData\Microsoft\Windows\Start Menu\Program  
+Move the shortcut to `C:\ProgramData\Microsoft\Windows\Start Menu\Programs`  
 
 
 ### Other Program Downloads :
