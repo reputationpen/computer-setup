@@ -46,7 +46,8 @@ Move the shortcut to C:\ProgramData\Microsoft\Windows\Start Menu\Program
 adobe suite 	https://1drv.ms/u/s!AtZJZY-xh88UkS606M0fKUsPuC4g?e=rWuLMT  
 solidworks	  https://solidworks.com/SEK  
 grabcad	    	https://workbench.grabcad.com/workbench/download  
+nvidia broadcast    https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/  
 
-Uninstall unneeded windows bloat
+Uninstall unneeded windows bloat  
 
 Download any games you want from steam, and you're done
