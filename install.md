@@ -2,7 +2,7 @@
 
 ### Install :
 
-Run Get-ExecutionPolicy. If it returns Restricted, then run Set-ExecutionPolicy AllSigned or Set-ExecutionPolicy Bypass -Scope Process \n
+Run Get-ExecutionPolicy. If it returns Restricted, then run Set-ExecutionPolicy AllSigned or Set-ExecutionPolicy Bypass -Scope Process
 
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 
@@ -50,7 +50,7 @@ Go to settings for tst and import the config file
 
 ### Airmessage Setup :
 
-Download airmessage.ico		
+Download airmessage.ico
 Open cmd and run:
 `
 npm install -g nativefier
@@ -60,7 +60,7 @@ Open C:\Program Files\[Airmessage Install]
 Create a shortcut for the exe
 Place airmessage.ico in the install directory
 Change the shortcut icon to airmessage.ico and rename it to Airmessage
-Move the shortcut to C:\ProgramData\Microsoft\Windows\Start Menu\Programs
+Move the shortcut to C:\ProgramData\Microsoft\Windows\Start Menu\Program
 
 
 ### Other Program Downloads :
