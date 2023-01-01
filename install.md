@@ -2,16 +2,16 @@ START WITH DOWNLOADING THIS REPOSITORY
 
 # Bloat Removal
 
-Go to https://github.com/builtbybel/ThisIsWin11/releases
-Download latest release
-Run ThisIsWin11
-Go to the Customize tab (second one) and click the plus in the top right, import adamsprofile.tiw1
-Fix Issues
-Go to the Apps tab (third one) and click the 3 dots in the top middle and import adamsbloat.txt
-Empty Bin
-Go the the Automate tab (fifth one) and run both srips in the Edge category
-Close the app and delete the files
-Restart computer
+Go to https://github.com/builtbybel/ThisIsWin11/releases  
+Download latest release  
+Run ThisIsWin11  
+Go to the Customize tab (second one) and click the plus in the top right, import adamsprofile.tiw1  
+Fix Issues  
+Go to the Apps tab (third one) and click the 3 dots in the top middle and import adamsbloat.txt  
+Empty Bin  
+Go the the Automate tab (fifth one) and run both srips in the Edge category  
+Close the app and delete the files  
+Restart computer  
 
 # Chocolatey
 
@@ -44,7 +44,7 @@ Set `toolkit.legacyUserProfileCustomizations.stylesheets` to true
 Go to about:support and click open profile folder  
 Unzip chrome.zip into the profile folder  
 Restart firefox  
-Go to settings for tst and import the config file~
+Go to settings for tst and import the config file~  
 
 ### Airmessage Setup :
 
@@ -69,6 +69,6 @@ nvidia broadcast    https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-
 
 Uninstall unneeded windows bloat  
 
-Clean up taskbar and windows menu
+Clean up taskbar and windows menu  
 
-Download any games you want from steam, and you're done
+Download any games you want from steam, and you're done  
