@@ -30,7 +30,7 @@ choco install 7zip -y && choco install discord -y && choco install firefox -y &&
 
 # Manual Downloads / Setup
 
-~~### Firefox Style Setup :
+~~### Firefox Style Setup :~~
 
 ~~Login to Firefox  
 Login to Bitwarden  
@@ -43,7 +43,7 @@ Set `toolkit.legacyUserProfileCustomizations.stylesheets` to true
 Go to about:support and click open profile folder  
 Unzip chrome.zip into the profile folder  
 Restart firefox  
-Go to settings for tst and import the config file
+Go to settings for tst and import the config file~~
 
 ### Airmessage Setup :
 
