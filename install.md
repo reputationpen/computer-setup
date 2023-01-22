@@ -25,7 +25,7 @@ Then run `Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServiceP
 ### Script (paste into terminal) :
 
 `
-choco install 7zip -y && choco install discord -y && choco install firefox -y && choco install teamviewer -y && choco install synergy -y && choco install inkscape -y && choco install steam -y && choco install bitwarden -y && choco install geforce-experience -y && choco install vlc -y && choco install vscode -y && choco install slack -y && choco install chocolateygui -y && choco install icue -y && choco install cpu-z -y && choco install obs-studio.install -y && choco install nodejs-lts -y && choco install bonjour -y && choco install openjdk -y && choco install twinkle-tray && choco install bitvise-ssh-client
+choco install 7zip -y && choco install discord -y && choco install firefox -y && choco install teamviewer -y && choco install synergy -y && choco install inkscape -y && choco install steam -y && choco install bitwarden -y && choco install geforce-experience -y && choco install vlc -y && choco install vscode -y && choco install slack -y && choco install chocolateygui -y && choco install icue -y && choco install cpu-z -y && choco install obs-studio.install -y && choco install nodejs-lts -y && choco install bonjour -y && choco install openjdk -y && choco install twinkle-tray -y && choco install bitvise-ssh-client -y
 `
 
 
