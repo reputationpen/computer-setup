@@ -64,7 +64,7 @@ Move the shortcut to `C:\ProgramData\Microsoft\Windows\Start Menu\Programs`
 
 adobe suite 	https://1drv.ms/u/s!AtZJZY-xh88UkS606M0fKUsPuC4g?e=rWuLMT  
 solidworks	  https://solidworks.com/SEK  
-grabcad	    	https://workbench.grabcad.com/workbench/download  
+grabcad	    	https://s3.amazonaws.com/desktop.grabcad.com/GrabCAD-Workbench-installer.exe  
 nvidia broadcast    https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/  
 
 Uninstall unneeded windows bloat  
