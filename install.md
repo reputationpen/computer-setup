@@ -51,9 +51,9 @@ Go to settings for tst and import the config file~
 Download airmessage.ico  
 Open cmd and run:  
 `
-npm install -g nativefier && nativefier "https://web.airmessage.org"
+npm install -g nativefier && nativefier "https://web.airmessage.org" --user-agent "Mozilla/5.0 (Windows NT 10.0; rv:74.0) Gecko/20100101 Firefox/74.0"
 `  
-Open `C:\Users\[User]\` and move the Airmessage install directory to `C:\Program Files\[Airmessage Install]`  
+Open `C:\Windows\System32\` and move the Airmessage install directory (`AirMessage-win32-x64`) to `C:\Program Files\[Airmessage Install]`  
 Create a shortcut for the exe  
 Place airmessage.ico in the install directory  
 Change the shortcut icon to airmessage.ico and rename it to Airmessage  
