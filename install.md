@@ -66,6 +66,7 @@ adobe suite 	https://1drv.ms/u/s!AtZJZY-xh88UkS606M0fKUsPuC4g?e=rWuLMT
 solidworks	  https://solidworks.com/SEK  
 grabcad	    	https://s3.amazonaws.com/desktop.grabcad.com/GrabCAD-Workbench-installer.exe  
 nvidia broadcast    https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/  
+microsoft office    https://1drv.ms/u/s!AtZJZY-xh88UngLeMYcoutsJlho9?e=eIua1m
 
 Uninstall unneeded windows bloat  
 
