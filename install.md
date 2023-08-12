@@ -25,7 +25,7 @@ Then run `Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServiceP
 ### Script (paste into terminal) :
 
 `
-choco install 7zip -y && choco install discord -y && choco install firefox -y && choco install teamviewer -y && choco install synergy -y && choco install inkscape -y && choco install steam -y && choco install bitwarden -y && choco install geforce-experience -y && choco install vlc -y && choco install vscode -y && choco install slack -y && choco install chocolateygui -y && choco install icue -y && choco install cpu-z -y && choco install obs-studio.install -y && choco install nodejs-lts -y && choco install bonjour -y && choco install openjdk -y && choco install twinkle-tray -y && choco install bitvise-ssh-client -y && choco install openjdk -y
+choco install 7zip -y && choco install discord -y && choco install firefox -y && choco install teamviewer -y && choco install inkscape -y && choco install steam -y && choco install bitwarden -y && choco install geforce-experience -y && choco install vscode -y && choco install slack -y && choco install hot-chocolatey -y && choco install icue -y && choco install cpu-z -y && choco install obs-studio.install -y && choco install nodejs-lts -y && choco install bonjour -y && choco install openjdk -y && choco install twinkle-tray -y && choco install bitvise-ssh-client -y && choco install openjdk -y && choco install autohotkey -y && choco install blender -y && choco install firefoxpwa -y && choco install pdf24 -y
 `
 
 
@@ -33,34 +33,12 @@ choco install 7zip -y && choco install discord -y && choco install firefox -y &&
 
 **If on a laptop, go to laptopbattery.md**
 
-~### Firefox Style Setup :~
+### Firefox Style Setup :
 
-~Login to Firefox  
+Login to Firefox  
 Login to Bitwarden  
 Change settings for custom scrollbar extension  
-Set Firefox to default browser  
-Download chrome.zip  
-Download tst config  
-Open firefox and go to about:config  
-Set `toolkit.legacyUserProfileCustomizations.stylesheets` to true  
-Go to about:support and click open profile folder  
-Unzip chrome.zip into the profile folder  
-Restart firefox  
-Go to settings for tst and import the config file~  
-
-### Airmessage Setup :
-
-Download airmessage.ico  
-Open cmd and run:  
-`
-npm install -g nativefier && nativefier "https://web.airmessage.org" --user-agent 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:70.0) Gecko/20100101 Firefox/70.0'
-`  
-Open `C:\Windows\System32\` and move the Airmessage install directory (`AirMessage-win32-x64`) to `C:\Program Files\[Airmessage Install]`  
-Create a shortcut for the exe  
-Place airmessage.ico in the install directory  
-Change the shortcut icon to airmessage.ico and rename it to Airmessage  
-Move the shortcut to `C:\ProgramData\Microsoft\Windows\Start Menu\Programs`  
-
+Set Firefox to default browser
 
 ### Other Program Downloads :
 
@@ -69,6 +47,8 @@ solidworks	  https://solidworks.com/SEK
 grabcad	    	https://s3.amazonaws.com/desktop.grabcad.com/GrabCAD-Workbench-installer.exe  
 nvidia broadcast    https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/  
 microsoft office    https://1drv.ms/u/s!AtZJZY-xh88UngLeMYcoutsJlho9?e=eIua1m
+beeper    https://www.beeper.com/download
+synergy 3    https://symless.com/synergy/download
 
 Uninstall unneeded windows bloat  
 
