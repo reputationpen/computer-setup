@@ -31,7 +31,7 @@ choco install 7zip -y && choco install discord -y && choco install firefox -y &&
 
 # Manual Downloads / Setup
 
-If on a laptop, do this stuff: https://notebooktalk.net/topic/272-guide-improving-battery-life-on-windows-enabling-deeper-c-states/
+**If on a laptop, go to laptopbattery.md**
 
 ~### Firefox Style Setup :~
 
