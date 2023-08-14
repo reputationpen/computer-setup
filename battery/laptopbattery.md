@@ -60,4 +60,4 @@ It is somewhat unknown what exactly causes the issue, but it's usually a generic
 After a reboot, your package should idle at C6/C7/C8, depending on your manufacturer and CPU.
 
 ### 7. Intel Graphics 
-make s
+make sure the latest drivers are installed, and turn on all the power saving features in Intel Graphics Command Center
