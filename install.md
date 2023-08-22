@@ -33,7 +33,7 @@ choco install 7zip -y && choco install discord -y && choco install firefox -y &&
 
 **If on a laptop, go to laptopbattery.md**
 
-### Firefox Style Setup :
+### Firefox Setup :
 
 Login to Firefox  
 Login to Bitwarden  
